@@ -1,3 +1,6 @@
+# Create a program that asks for two numbers and prints their sum, difference, product, and quotient.
+
+
 num1 = int(input("Enter num1: "))
 num2 = int(input("Enter num2: "))
 
