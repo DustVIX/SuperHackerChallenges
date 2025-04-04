@@ -1,0 +1,4 @@
+This is a random text to fill the file. You can repeat or modify it as needed.  
+New line here to test formatting.  
+1234567890!@#$%^&*()_+  
+Mixed Arabic and English letters: نص عربي مع English text.  
