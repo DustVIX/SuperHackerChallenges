@@ -14,12 +14,3 @@ else:
     print("There is no such word in find_me.txt")
 
 file_path.close()
-
-
-
-# match = re.search(str_input, line_list)
-
-# if match:
-#     print(f"We find it: {match.group()}") 
-# else:
-#     print("Sorry, the word is not here ):")
