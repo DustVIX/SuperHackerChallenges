@@ -5,7 +5,7 @@ import sys
 
 try:
     url = input("Enter a url: ")
-    username = input("Enter a username: ")
+    username = input("Enter a username or email: ")
 except KeyboardInterrupt:
     print("\nCTRL + C")
     sys.exit()

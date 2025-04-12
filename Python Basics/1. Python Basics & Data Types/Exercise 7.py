@@ -1,4 +1,4 @@
-# Write a program that checks if a number is even or odd.
+# Create a variable that stores a boolean value (True or False) and print it.
 
 boolean = True
 print(boolean)

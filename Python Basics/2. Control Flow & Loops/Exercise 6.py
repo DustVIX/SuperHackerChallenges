@@ -2,7 +2,7 @@
 
 from getpass import getpass
 
-password = "DustVIX"
+password = ""
 attempts = 3
 while attempts:
     input_password = getpass()

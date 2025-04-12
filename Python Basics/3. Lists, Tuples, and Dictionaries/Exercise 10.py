@@ -9,5 +9,6 @@ for i in dictionary:
     num = 1 + num
     if i["username"] == str_username:
         print(f"Welcome {str_username}, your password is {i["passwd"]}")
+        break
     elif num == 3:
         print(f"Sorry, {str_username} not found")
