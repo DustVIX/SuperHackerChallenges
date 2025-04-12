@@ -3,7 +3,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-req = requests.get("https://pypi.org/project/beautifulsoup4/")
+url = input("Enter a url: ")
+req = requests.get(url)
 soup = BeautifulSoup(req.text, 'html.parser')
 
 links = soup.find_all('a')
